@@ -1,0 +1,66 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.header {
+    background-color: #f2c454;
+    padding: 20px;
+}
+
+.description {
+    
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+h3 {
+    margin: 10px;
+    line-height: 1;
+}
+
+h2 {
+    margin: 5px;
+}
+
+span {
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.result-area {
+    background-color: #fae7b8;
+}
+
+button {
+    background: #f2c454;
+    background-image: -webkit-linear-gradient(top, #f2c454, #b8952b);
+    background-image: -moz-linear-gradient(top, #f2c454, #b8952b);
+    background-image: -ms-linear-gradient(top, #f2c454, #b8952b);
+    background-image: -o-linear-gradient(top, #f2c454, #b8952b);
+    background-image: linear-gradient(to bottom, #f2c454, #b8952b);
+    -webkit-border-radius: 39;
+    -moz-border-radius: 39;
+    border-radius: 39px;
+    border-color: none;
+    color: #050505;
+    font-size: 22px;
+    padding: 10px 20px 10px 20px;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+    margin-top: 20px;
+    
+  }
+  
+  button:hover {
+    background: #f0d654;
+    background-image: -webkit-linear-gradient(top, #f0d654, #d9cb34);
+    background-image: -moz-linear-gradient(top, #f0d654, #d9cb34);
+    background-image: -ms-linear-gradient(top, #f0d654, #d9cb34);
+    background-image: -o-linear-gradient(top, #f0d654, #d9cb34);
+    background-image: linear-gradient(to bottom, #f0d654, #d9cb34);
+    text-decoration: none;
+  }
